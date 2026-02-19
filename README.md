@@ -21,3 +21,16 @@ The objective of this project is to design and develop an interactive Excel dash
 - What percentage of total sales comes from Electronics compared to other categories?
 - Do higher-priced products (like Laptops and Phones) contribute more revenue despite lower quantities?
 - What is the distribution of sales across the three main categories?
+
+  -Dashboard Interaction <a href="https://github.com/prachi-lp/Data-analytics-Dashboard/blob/main/CUSTOMER%20DASHBOARD.pdf">View Dashboard</a>
+
+  ## Process
+  - Collected and cleaned the Customer Purchase dataset in Excel, ensuring accurate formatting and calculated fields.
+  - Analyzed the data using Pivot Tables to summarize sales, quantity, pricing, and customer trends.
+  - Designed an interactive dashboard with KPIs and visual charts for product, customer, and shipping insights.
+  - Generated actionable business insights to support data-driven decision-making.
+ 
+    ## Dashboard
+
+  ![WhatsApp Image 2026-02-18 at 10 33 14 AM](https://github.com/user-attachments/assets/2a35e450-1116-4cb4-96d3-fe58d73a0939)
+
