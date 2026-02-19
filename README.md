@@ -34,3 +34,15 @@ The objective of this project is to design and develop an interactive Excel dash
 
   ![WhatsApp Image 2026-02-18 at 10 33 14 AM](https://github.com/user-attachments/assets/2a35e450-1116-4cb4-96d3-fe58d73a0939)
 
+  ## Project Insights
+  Office Supplies showed the highest order frequency, indicating strong recurring demand.
+  Electronics generated higher revenue contribution due to premium pricing, even with comparatively lower quantities.
+  A small group of customers contributed significantly to total revenue, highlighting high-value customer segments.
+  Standard Class shipping was the most preferred delivery mode, suggesting cost-conscious purchasing behavior.
+  Pricing analysis revealed clear differences in average unit prices across categories, impacting overall revenue distribution.
+
+  ## Final Conclusion
+  The Customer Purchase History Dashboard successfully transforms raw transactional data into meaningful business insights. Through structured analysis and interactive visualization in Excel, the project
+  highlights key revenue drivers, customer behavior patterns, and operational trends.
+  This dashboard demonstrates how Excel can be effectively used as a Business Intelligence tool to support strategic decision-making in sales performance, customer segmentation, and logistics planning.
+
